@@ -1,0 +1,10 @@
+[back]
+folders = ["./data/folderpath/"]
+files = ["./filepath"]
+
+[mail]
+to = ["your to email address"]
+host = "your email smtp host"
+port = 465
+user = "your user"
+password = "your password"
